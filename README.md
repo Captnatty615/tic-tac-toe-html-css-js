@@ -15,7 +15,7 @@ To play the game, simply open the `index.html` file in your favorite text editor
 ## Getting Started
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Captnatty615/tic-tac-toe-html-css-js.git
 2. Navigate to the project directory:
    cd tic-tac-toe
 3. Open the `index.html` file in your text editor.
